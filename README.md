@@ -1,4 +1,4 @@
-Please cite our paper published in Signal Processing 
+Please cite our paper published in journal Signal Processing 
 
 Samad Wali, Chunming Li, Mudassar Imran, Abdul Shakoor, Abdul Basit.
 
